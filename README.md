@@ -7,6 +7,8 @@ Try it out this tool on hugging face https://huggingface.co/spaces/samarth1864/B
 ## 🌍 What is NDVI Insights?
 **NDVI Insights** allows users to query historical satellite-based NDVI (Normalized Difference Vegetation Index) data using simple natural language. The app processes the query, fetches corresponding NDVI maps for specified timeframes and locations, and visualizes the vegetation gain or loss over time.
 
+![image](https://github.com/user-attachments/assets/00e53933-32c3-4d38-affd-1c833e1ea354)
+
 ## ✨ Features
 - 🗺️ Compare NDVI data across years and locations
 - 💬 Natural language queries (e.g., "Compare NDVI in Barcelona between 2010 and 2020")
