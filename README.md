@@ -31,6 +31,7 @@ Try it out this tool on hugging face https://huggingface.co/spaces/samarth1864/B
 - Add city-based preloaded examples
 - Integrate more environmental indicators (LST, land use)
 - Enable export of analysis results.
+- Include U-Net Analysis for loss percentages and colour intensities proportions
 
 ---
 
