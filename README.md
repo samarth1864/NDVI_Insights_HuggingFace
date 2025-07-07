@@ -2,6 +2,7 @@
 An interactive Gradio app to explore and compare historical vegetation trends using NDVI data and natural language queries.
 
 Try it out this tool on hugging face https://huggingface.co/spaces/samarth1864/Beavers_Gradio
+![image](https://github.com/user-attachments/assets/31ee496c-7eeb-43b2-b247-d31f51d79c26)
 
 ## 🌍 What is NDVI Insights?
 **NDVI Insights** allows users to query historical satellite-based NDVI (Normalized Difference Vegetation Index) data using simple natural language. The app processes the query, fetches corresponding NDVI maps for specified timeframes and locations, and visualizes the vegetation gain or loss over time.
